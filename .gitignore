@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+build/
+*.egg-info/
+
+# saidas geradas pelos scripts (recriadas ao rodar)
+results/exemplo_*/
+results/teste/
+results/comparacao/
+results/_verif/

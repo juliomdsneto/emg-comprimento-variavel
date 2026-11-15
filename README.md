@@ -29,6 +29,8 @@ Python puro usada para verificação.
 
 ## Estrutura
 
+Código em `src/`, dados em `results/`; os demais arquivos ficam na raiz.
+
 ```
 emg.py            núcleo: kernels Numba
                     emg1 -> Tipo-I     (S=2, um m por agente)
